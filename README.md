@@ -1,6 +1,6 @@
 # Johan Olof Olsson
 
-## I'm a Senior Product Consultant based in Berkshire, England with 9 years of experience in digital marketing.
+## I'm a Senior Product Consultant with 9 years’ experience in digital marketing.
 Check out my [résumé](https://johanolofolsson.notion.site/Johan-Olof-Olsson-f9387280ddfe482e9538ba72f43a33bd), or find me online:
 
 [![JohanOlofOlsson.com](https://img.shields.io/badge/JohanOlofOlsson.com-FF4136.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQuMjUgMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0id2hpdGUiIGZpbGwtcnVsZT0ibm9uemVybyIgZD0ibTAgNyAxMi4xMjQtNyAxMi4xMjUgN3YxNGwtMTIuMTI1IDdMMCAyMXYtMy41bDEyLjEyNC03IDMuMDMxIDEuNzV2My41bC02LjA2MiAzLjVMMTIuMTI0IDIxbDYuMDYzLTMuNXYtN0wxMi4xMjQgN2wtOS4wOTMgNS4yNUwwIDEwLjV6Ii8+PC9zdmc+&logoColor=white)](https://www.johanolofolsson.com/)
@@ -57,9 +57,9 @@ Check out my [résumé](https://johanolofolsson.notion.site/Johan-Olof-Olsson-f9
 
 ## Projects 🛠️
 
-- **Babelmail** 📧 **•** Multi-language Email Generator _(Coming soon)_
-- **[CX Weather⧉](https://github.com/johanolofolsson/CX-Weather)** ⛅ **•** Oracle CX App Demo built in Node.js
-- **[Bulletproof Multi-Line Padded Text⧉](https://codepen.io/johanolofolsson/pen/wvjdGbo)** **•** Codepen demo
+- **Babelmail •** Multi-language Email Generator _(Coming soon)_
+- **[CX Weather⧉](https://github.com/johanolofolsson/CX-Weather) •** Oracle CX App Demo built in Node.js
+- **[Bulletproof Multi-Line Padded Text⧉](https://codepen.io/johanolofolsson/pen/wvjdGbo) •** Codepen demo
 
 ## Writing ✍️
 
