@@ -33,7 +33,7 @@ Check out my [résumé](https://johanolofolsson.notion.site/Johan-Olof-Olsson-f9
 ![Sketch](https://img.shields.io/badge/Sketch-F7B500.svg?style=for-the-badge&logo=Sketch&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
-## Stack
+## Languages
 ![Apache FreeMarker](https://img.shields.io/badge/Apache%20FreeMarker-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white)
 ![PLSQL](https://img.shields.io/badge/PLSQL-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
